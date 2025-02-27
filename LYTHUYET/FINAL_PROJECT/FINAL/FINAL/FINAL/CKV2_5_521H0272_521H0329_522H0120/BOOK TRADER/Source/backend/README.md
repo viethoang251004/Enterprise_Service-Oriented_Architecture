@@ -1,0 +1,1 @@
+Using this command to start the server: node --watch server.js
